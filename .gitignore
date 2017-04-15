@@ -1,3 +1,14 @@
 
 # These are files created by AndroidStudio. Not needed to be checked in.
 .idea/
+
+# These are files created by AndroidStudio when it figured out that we are deailing with a gradle project.
+# We dont necessarily need all of them.
+# Putting a few in ignore for the moment.
+
+/local.properties
+/gradlew.bat
+/gradlew
+
+# This was created with the gradle task was run.
+/gradle
