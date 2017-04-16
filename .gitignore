@@ -1,6 +1,7 @@
 
 # These are files created by AndroidStudio. Not needed to be checked in.
 .idea/
+/tutorialGradle001.iml
 
 # These are files created by AndroidStudio when it figured out that we are deailing with a gradle project.
 # We dont necessarily need all of them.
@@ -13,5 +14,6 @@
 /gradle
 /.gradle
 
-# These are where .apk files are.
+# These the folders for the build process.
+/gen
 /build
